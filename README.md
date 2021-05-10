@@ -3,7 +3,8 @@
 
 # ⏱ CountDown
 
-[DEMO](https://modest-kalam-b87884.netlify.app/){:target="_blank"}
+<a href="https://modest-kalam-b87884.netlify.app/ target="_blank">DEMO</a>
+
 
 ![screen](https://user-images.githubusercontent.com/28912774/117662433-822e6e80-b1da-11eb-893c-78ec7d06f624.gif)
 
