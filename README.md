@@ -60,6 +60,6 @@ function countdown() {
 
 - [Florin Pop](https://www.youtube.com/watch?v=dtKciwk_si4&t=1788s)
 
-- [웹 개발 메모장](https://dororongju.tistory.com/116)\
+- [웹 개발 메모장](https://dororongju.tistory.com/116)
 
 - [stack overflow](https://stackoverflow.com/questions/12007379/what-makes-new-date-1000-a-valid-javascript)
