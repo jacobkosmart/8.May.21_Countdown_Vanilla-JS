@@ -1,6 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/37011f4d-c2d6-4235-9963-28aa412d862d/deploy-status)](https://app.netlify.com/sites/modest-kalam-b87884/deploys)
 
-Netlify Status
 
 # ⏱ CountDown
 
