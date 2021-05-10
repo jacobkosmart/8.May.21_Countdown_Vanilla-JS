@@ -1,8 +1,13 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/37011f4d-c2d6-4235-9963-28aa412d862d/deploy-status)](https://app.netlify.com/sites/modest-kalam-b87884/deploys)
 
 Netlify Status
 
 # ⏱ CountDown
+
+[DEMO](https://modest-kalam-b87884.netlify.app/)
+
+![screen](https://user-images.githubusercontent.com/28912774/117662433-822e6e80-b1da-11eb-893c-78ec7d06f624.gif)
+
 
 
 ## 💻 1.프로젝트 소개  
